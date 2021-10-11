@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764378181733",
+    "project_id": "compokonlipokiescom",
+    "storage_bucket": "compokonlipokiescom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764378181733:android:8076fbf230748e637c168c",
+        "android_client_info": {
+          "package_name": "com.pok.onli.pokies.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764378181733-s27slchkivs3aet3er9g8k86riquqn51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8MtujGU4QJ_Q3cPZkoerpKjoMKUKQ1FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764378181733-s27slchkivs3aet3er9g8k86riquqn51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
