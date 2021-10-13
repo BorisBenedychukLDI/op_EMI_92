@@ -53,17 +53,6 @@
                 android:resource="@xml/extrenal_98po2" />
         </provider>
 
-        <receiver
-            android:name="com.appsflyer.SingleInstallBroadcastReceiver"
-            android:exported="true" >
-            <intent-filter>
-                <action android:name="com.android.vending.INSTALL_REFERRER" />
-            </intent-filter>
-        </receiver>
-
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-1372913723829128~4523902354" />
     </application>
 
 </manifest>

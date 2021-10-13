@@ -29,7 +29,6 @@ class SplashActivity98po2 : AppCompatActivity(), SplashContract98po2.SplashMetho
         binding98po2 = ActivityMain98po2Binding.inflate(layoutInflater)
         setContentView(binding98po2.root)
         splashPresenterMethods98po2 = SplashPresenter98po2(this)
-        splashPresenterMethods98po2.setupFB98po2()
         splashPresenterMethods98po2.thisEndsHere98po2()
     }
 

@@ -9,8 +9,6 @@ interface ApplicationContract98po2 {
     }
 
     interface ApplicationSetupMethods98po2 {
-        fun afSetup98po2 ()
         fun osSetup98po2 ()
-        fun maSetup98po2 ()
     }
 }

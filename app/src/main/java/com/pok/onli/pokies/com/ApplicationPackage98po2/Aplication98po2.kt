@@ -9,8 +9,6 @@ class Aplication98po2 : Application(), ApplicationContract98po2.ApplicationMetho
 
     override fun onCreate() {
         applicationSetupMethods98po2 = ApplicationSetuper98po2(this)
-        applicationSetupMethods98po2.afSetup98po2()
-        applicationSetupMethods98po2.maSetup98po2()
         applicationSetupMethods98po2.osSetup98po2()
         super.onCreate()
     }

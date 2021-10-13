@@ -10,7 +10,6 @@ interface SplashContract98po2 {
 
     interface SplashPresenterMethods98po2 {
         fun thisEndsHere98po2 ()
-        fun setupFB98po2 ()
 
     }
 }

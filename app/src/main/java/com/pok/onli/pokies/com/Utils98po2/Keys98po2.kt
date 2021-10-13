@@ -13,6 +13,6 @@ const val FB_DEFAULT_KEY_98po2 = "pocdefkey"
 const val FB_BLACK_KEY_98po2 = "pokblackpage"
 const val FB_WHITE_KEY_98po2 = "pokwhitepage"
 const val CODED_ONESIGNAL_98po2 = "YmE0MjM2NjYtMDRjMi00NjNhLWI1YzAtZGQwMzZkNDJhMmM1"
-const val CODE_APPSFLYER_98po2 = "NkIzRzhmdW84dERmVmMyZzNCSHhyQQ=="
+const val CODE_BINOM_98po2 = "aHR0cHM6Ly9kcm9wbWVmaWxlcy5jb20v"
 
 fun decodeString98po2 (str98po2: String) = String(Base64.decode(str98po2, Base64.DEFAULT))
