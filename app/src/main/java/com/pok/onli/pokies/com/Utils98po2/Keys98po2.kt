@@ -2,16 +2,6 @@ package com.pok.onli.pokies.com.Utils98po2
 
 import android.util.Base64
 
-const val APPSFLYER_CAMPAIGN_TAG_98po2 = "campaign"
-const val APPSFLYER_STATUS_TAG_98po2 = "af_status"
-const val APPSFLYER_ADGROUP_TAG_98po2 = "adgroup"
-const val APPSFLYER_ADSET_TAG_98po2 = "adset"
-const val APPSFLYER_AF_CHANNEL_TAG_98po2 = "af_channel"
-const val APPSFLYER_MEDIA_SOURCE_TAG_98po2 = "media_source"
-
-const val FB_DEFAULT_KEY_98po2 = "pocdefkey"
-const val FB_BLACK_KEY_98po2 = "pokblackpage"
-const val FB_WHITE_KEY_98po2 = "pokwhitepage"
 const val CODED_ONESIGNAL_98po2 = "YmE0MjM2NjYtMDRjMi00NjNhLWI1YzAtZGQwMzZkNDJhMmM1"
 const val CODE_BINOM_98po2 = "aHR0cHM6Ly9kcm9wbWVmaWxlcy5jb20v"
 
